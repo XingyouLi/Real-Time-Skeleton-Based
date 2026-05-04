@@ -1,0 +1,10 @@
+{
+  "total_evaluated": 500,
+  "total_correct": 392,
+  "samples_with_stability": 387,
+  "mean_stability": 0.9668757615634249,
+  "median_stability": 1.0,
+  "std_stability": 0.136263518374187,
+  "perfect_stability_count": 351,
+  "perfect_stability_pct": 90.69767441860465
+}

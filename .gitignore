@@ -1,0 +1,6 @@
+venv_mp/ 
+venv_tf/ 
+date/ 
+results/ 
+__pycache__/ 
+*.pyc 
