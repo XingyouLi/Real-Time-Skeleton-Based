@@ -4,3 +4,6 @@ date/
 results/ 
 __pycache__/ 
 *.pyc 
+processed_data/X_train_seq.npy 
+processed_data/X_val_seq.npy 
+processed_data/X_test_seq.npy 
